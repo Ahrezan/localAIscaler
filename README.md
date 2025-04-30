@@ -1,4 +1,5 @@
 <p align="center"><img src="./laislogo.png" alt="WhyDidGitHubBanMeForLikeOneSecond?" width="400"/></p>
+![Uygulama Logosu](./lslog.png)
 
 #
 This is an application that runs a lightweight version of the models used in Waifu2x directly on your local machine, instead of relying on a web browser, and provides a simple, user-friendly interface to interact with them.
