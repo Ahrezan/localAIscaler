@@ -3,9 +3,9 @@
 #
 This is an application that runs a lightweight version of the models used in Waifu2x directly on your local machine, instead of relying on a web browser, and provides a simple, user-friendly interface to interact with them.
 
-### The models used in the program.
+### The models used in the program
 
-| Models | Style     |
+| Waifu2x Models | Style     |
 | :-------- | :------- |
 | `models-cunet` | Artwork/Scans |
 | `models-upconv_7_anime_style_art_rgb` | Artwork |
