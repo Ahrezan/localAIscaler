@@ -24,12 +24,13 @@ This is an application that runs a lightweight version of the models used in Wai
 
 ### Available Versions & Platform
 
-| Platform | Architecture | Notes | Download |
-| :-------- | :------- | :------ | :------|
-| Windows | `64-bit` | Current | [![Win64 Download](https://img.shields.io/badge/Download-x64-blue?logo=windows&style=flat-square)]() |
-| Windows | `32-bit` | Legacy | [![Win32 Download](https://img.shields.io/badge/Download-x86-red?logo=windows&style=flat-square)]() |
-| Windows | `ARM64` | For ARM PCs | [![ARM64 Download](https://img.shields.io/badge/Download-ARM64-green?logo=windows&style=flat-square)]() |
-| Windows | `ARM32` | Limited support | [![ARM32 Download](https://img.shields.io/badge/Download-ARM32-yellow?logo=windows&style=flat-square)]() |
+| Platform | Architecture | Notes           | Download                                                                                                              |
+| :------- | :----------- | :-------------- | :-------------------------------------------------------------------------------------------------------------------- |
+| Windows  | `64-bit`     | Current         | [![Win64 Download](https://img.shields.io/badge/Download-x64-blue?logo=windows&style=flat-square)](https://github.com/Ahrezan/localAIscaler/releases/download/v1.0.0/net8.0-windows_x64.7z)     |
+| Windows  | `32-bit`     | Legacy          | [![Win32 Download](https://img.shields.io/badge/Download-x86-red?logo=windows&style=flat-square)](https://github.com/Ahrezan/localAIscaler/releases/download/v1.0.0/net8.0-windows_x86.7z)     |
+| Windows  | `ARM64`      | For ARM PCs     | [![ARM64 Download](https://img.shields.io/badge/Download-ARM64-green?logo=windows&style=flat-square)](https://github.com/Ahrezan/localAIscaler/releases/download/v1.0.0/net8.0-windows_arm64.7z) |
+| Windows  | `ARM32`      | Limited support | [![ARM32 Download](https://img.shields.io/badge/Download-ARM32-yellow?logo=windows&style=flat-square)](https://github.com/Ahrezan/localAIscaler/releases/download/v1.0.0/net8.0-windows_arm32.7z) |
+
 
 ## Note
 
